@@ -7,7 +7,7 @@ To check the time use the API **Open Weather Map API**
 
 You must obtain your own RapidKey to use the service [web site ](https://rapidapi.com/community/api/open-weather-map?endpoint=apiendpoint_f719676c-072b-4a2d-ad2e-78f8375ea9c8)
 
-###To use run
+### To use run
 
 ```
 npm install
